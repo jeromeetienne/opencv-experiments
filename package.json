@@ -1,0 +1,22 @@
+{
+  "name": "opencv-experiments",
+  "version": "1.0.0",
+  "description": "Experimentation with opencv",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromeetienne/opencv-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromeetienne/opencv-experiments/issues"
+  },
+  "homepage": "https://github.com/jeromeetienne/opencv-experiments#readme",
+  "devDependencies": {
+    "opencv": "^6.0.0"
+  }
+}
